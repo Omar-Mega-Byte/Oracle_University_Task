@@ -88,3 +88,11 @@ This project implements a robust Exam and Student Management System using Oracle
 ## License
 This project is released under the [MIT License](LICENSE).
 
+### Team Members:
+- Omar Ahmed
+- Refaat Ismail
+- Sara Ashraf
+- Sara Ahmed 
+- Ali Gomaa
+- Ahmed Maghawry
+- Hussien Ahmed
